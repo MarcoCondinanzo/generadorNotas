@@ -1,0 +1,36 @@
+{
+    "tareas": [
+        {
+            "titulo": "Pedir turno",
+            "estado": "Terminado"
+        },
+        {
+            "titulo": "Ducha",
+            "estado": "Terminado"
+        },
+        {
+            "titulo": "Lavar los platos",
+            "estado": "Pendiente"
+        },
+        {
+            "titulo": "Comprar puchos",
+            "estado": "Cancelado"
+        },
+        {
+            "titulo": "Lavar los platos",
+            "estado": "Cancelado"
+        },
+        {
+            "titulo": "Lavar los platos",
+            "estado": "En Proceso"
+        },
+        {
+            "titulo": "Pagar alquiler",
+            "estado": "Terminado"
+        },
+        {
+            "titulo": "Pedir turno",
+            "estado": "Pendiente"
+        }
+    ]
+}
